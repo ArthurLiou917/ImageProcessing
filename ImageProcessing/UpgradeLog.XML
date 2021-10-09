@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageProcessing">
+</Property><Property Name="Solution File" Value="C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\ImageProcessing.sln">
+</Property><Property Name="User Options File" Value="C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\ImageProcessing.suo">
+</Property><Property Name="Date" Value="Tuesday, November 01, 2011">
+</Property><Property Name="Time" Value="22:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImageProcessing.sln" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\ImageProcessing.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ImageProcessing.suo" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\ImageProcessing.suo">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="Project file successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\ImageProcessing.csproj">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="ImageProcessing.csproj.user" Description="Project user file successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\ImageProcessing.csproj.user">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Form1.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Program.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Form1.resx" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ImageProcessing" Source="ImageProcessing.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ImageProcessing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImageProcessing.sln" Description="Converted">
+</Event></UpgradeLog>

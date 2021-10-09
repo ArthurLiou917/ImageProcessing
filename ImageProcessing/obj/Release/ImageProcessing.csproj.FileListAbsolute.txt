@@ -1,0 +1,10 @@
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ResolveAssemblyReference.cache
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Form1.resources
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\data\Tara\CoursePrep\ICS3M\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Data\Tara\CoursePrep\ICS3U\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb
